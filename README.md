@@ -19,7 +19,7 @@ Functionalities:
 
 =========================================================================================
 
-pip install the following commands:
+pip install the following libraries:
 
 SpeechRecognition
 
