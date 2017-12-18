@@ -22,13 +22,21 @@ Functionalities:
 pip install the following commands:
 
 SpeechRecognition
+
 Pyttsx
+
 gTTS
+
 PyAudio
+
 datetime
+
 webbrowser
+
 wikipedia
+
 pyowm
+
 mp3play
 
 =============================================================================================
